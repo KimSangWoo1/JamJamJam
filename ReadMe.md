@@ -34,5 +34,4 @@
 
 * * *
 숏츠 영상
-https://www.youtube.com/shorts/gUiTzkDi_7s
-[![Video Label](http://img.youtube.com/shorts/vi/gUiTzkDi_7s/0.jpg)](https://www.youtube.com/shorts/gUiTzkDi_7s)
+[![Video Label](http://img.youtube.com/vi/gUiTzkDi_7s/0.jpg)](https://www.youtube.com/shorts/gUiTzkDi_7s)
