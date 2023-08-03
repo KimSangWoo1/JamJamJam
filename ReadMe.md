@@ -33,5 +33,5 @@
 틀리지 않고 연속해서 몇 마리 죽였을 경우
 
 * * *
-숏츠 영상
+Game Play 숏츠 영상</br>
 [![Video Label](http://img.youtube.com/vi/gUiTzkDi_7s/0.jpg)](https://www.youtube.com/shorts/gUiTzkDi_7s)
