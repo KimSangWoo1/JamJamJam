@@ -28,9 +28,15 @@ public class PlayerChange : MonoBehaviour
         players[playerNumber].SetActive(false);
 
         playerNumber += count;
-        if (playerNumber < 0) playerNumber = players.Length - 1;
-        else if (playerNumber >= players.Length) playerNumber = 0;
-
+        if (playerNumber < 0)
+        {
+            playerNumber = players.Length - 1;
+        }
+        else if (playerNumber >= players.Length)
+        {
+            playerNumber = 0;
+        }
+        DataManager.Instance.SavePlayerNumber(playerNumber);
         players[playerNumber].SetActive(true);
     }
 }

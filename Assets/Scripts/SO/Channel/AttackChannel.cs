@@ -22,16 +22,4 @@ public class AttackChannel : ScriptableObject
             Debug.LogWarning("attackRequested Null");
         }
     }
-
-    internal void PlayerAttackEvent(GameObject enemy)
-    {
-        if (plyerAttackRequested != null)
-        {
-            plyerAttackRequested.Invoke(enemy);
-        }
-        else
-        {
-            Debug.LogWarning("plyerAttackRequested Null");
-        }
-    }
 }

@@ -77,6 +77,9 @@ TextureImporter:
   - first:
       213: 4018367105640525561
     second: blueSheet_24
+  - first:
+      213: -3254210907558692184
+    second: blueSheet_25
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -722,6 +725,27 @@ TextureImporter:
       bones: []
       spriteID: 9fe61d4a79b14c730800000000000000
       internalID: 4018367105640525561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueSheet_25
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 10
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa33cecb68b6d2d0800000000000000
+      internalID: -3254210907558692184
       vertices: []
       indices: 
       edges: []

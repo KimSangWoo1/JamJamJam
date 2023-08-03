@@ -5,7 +5,6 @@ using UnityEngine.SceneManagement;
 
 public class SceneChanger : Singleton<SceneChanger>
 {
-
     public void SceneChange(string name)
     {
         StartCoroutine(LoadingScene(name));

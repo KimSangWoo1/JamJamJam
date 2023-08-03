@@ -19,13 +19,19 @@ public class UIControl : MonoBehaviour
     [SerializeField]
     public Button reward;
 
+
     private void OnEnable()
     {
-        score.text = "Score : "+DataManager.Instance.Data.Score.ToString();
+        score.text = "Score : " + DataManager.Instance.GetBestScore();
     }
 
     private void Start()
     {
-        playerName.text = DataManager.Instance.Data.Score.ToString();
+        string name = DataManager.Instance.Data.Name.ToString();
+        if(name!=null || string.IsNullOrWhiteSpace(name))
+        {
+            name = "Guest1";
+        }
+        playerName.text = name;
     }
 }
