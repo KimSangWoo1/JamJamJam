@@ -31,3 +31,8 @@
 
 #피버
 틀리지 않고 연속해서 몇 마리 죽였을 경우
+
+* * *
+숏츠 영상
+https://www.youtube.com/shorts/gUiTzkDi_7s
+[![Video Label](http://img.youtube.com/shorts/vi/gUiTzkDi_7s/0.jpg)](https://www.youtube.com/shorts/gUiTzkDi_7s)
